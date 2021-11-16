@@ -1,0 +1,4 @@
+Stepper	KEYWORD1
+clockwise KEYWORD1
+WiFiConnect KEYWORD1
+anticlockwise KEYWORD2
