@@ -7,3 +7,4 @@ esp8266_connection.ino is the code for the esp8266 serially connected to the man
 serial_esp8266 has the code for the arm_band esp8266.
 
 The video demonstration of the device can be found on the following link:
+https://youtu.be/XA4y3OvXI9I
