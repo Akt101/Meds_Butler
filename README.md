@@ -1,3 +1,7 @@
+Business Problem:
+A device coupled with a system to administer medicines timely to sick and elderly controlled via a dashboard for medical professionel.
+Built the end-to-end project in constantly updating requirements by the client.
+
 # Meds_Butler
 Meds_Butler is a medicine delievery system for the elderly, the code is for three pieces of the system, the Atmega2560 used as the main driver of the device,
 The times at which to deliver the medicines are received on a esp8266 which is serially attached to the arduino, at the time of the medicine delivery, a signal is
